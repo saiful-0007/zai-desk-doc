@@ -1,0 +1,73 @@
+# Project information
+site_name: "ZaiAdmin Documentation"
+site_description: "ZaiAdmin is a web based responsive application that includes an online learning management system, as well as admin, instructor and student panel. This is complete ready to use learning management system. Instructors create, update paid/free courses, which students can buy and obtain learning content and educational resources, lesson, quiz, assignments, live class, discussion etc. Students can track their progress while participating course assignment, quiz, discussion and also download the certificate after completing the course."
+site_author: "zainiklab"
+
+site_url: ""
+use_directory_urls: False
+# Copyright
+copyright: "Copyright © 2022-2023 ZaiAdmin | Zainiktheme All Right Reserved"
+
+
+# Configuration
+docs_dir: "details"
+theme:
+  name: "material"
+  language: "en"
+  shortcuts:
+    help: 191 # ?
+    next: 78 # n
+    previous: 80 # p
+    search: 83 # s
+  palette:
+    primary: "black"
+    accent: "orange"
+  features:
+    - tabs
+  #font:
+  #text: 'Ubuntu'
+  #code: 'Ubuntu Mono'
+  #icon:
+  logo: '/assets/img/logo.png'
+  favicon: '/assets/img/favicon.png'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - def_list
+  - mdx_math:
+      enable_dollar_delimiter: true
+  - toc:
+      permalink: true
+      separator: "_"
+
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+      lang:
+        - en
+  - mkdocs-video
+
+# Customization
+extra_javascript:
+  - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML"
+extra_css:
+  - "assets/css/custom.css"
+extra:
+  generator: false
+  manifest: "manifest.json"
+
+# Page tree
+nav:
+  - "Home": "index.md"
+  - "Getting Started": "getting-started.md"
+  - "Admin Panel": "admin.md"
+  - "User Panel": "user.md"
+  - "Faq": "faq.md"
+  - "Others": "others.md"
+  - "Change Log": "change-Log.md"
+  - "Addon Install": "addon-install.md"
+  - "Version Update": "version-update.md"
+  - "Installable": "installable.md"

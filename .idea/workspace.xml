@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="168f8dc9-4b90-45b8-b982-a4560b14fea2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2SgdBiVmA02hEXB9RCFVexn2wj8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="168f8dc9-4b90-45b8-b982-a4560b14fea2" name="Default Changelist" comment="" />
+      <created>1689572023659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689572023659</updated>
+      <workItem from="1689572025026" duration="28897000" />
+      <workItem from="1689656329662" duration="2427000" />
+      <workItem from="1689663518382" duration="15336000" />
+      <workItem from="1689742845135" duration="13865000" />
+      <workItem from="1689760309780" duration="8131000" />
+      <workItem from="1689770615743" duration="6253000" />
+      <workItem from="1689829291795" duration="3646000" />
+      <workItem from="1689834243053" duration="219000" />
+      <workItem from="1689834487313" duration="1704000" />
+      <workItem from="1689836863185" duration="4538000" />
+      <workItem from="1690021409479" duration="2749000" />
+      <workItem from="1690088375164" duration="748000" />
+      <workItem from="1690089899615" duration="4418000" />
+      <workItem from="1690113431153" duration="902000" />
+      <workItem from="1690175233855" duration="81000" />
+    </task>
+    <task id="LOCAL-00001" summary="add. lms-zai admin panel stature ready.">
+      <created>1689601064004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689601064004</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add. lms-zai admin panel ready.">
+      <created>1689745423245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689745423245</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add. instructor or organization all done.">
+      <created>1689762901878</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689762901878</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix. organization done.">
+      <created>1689763074058</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689763074058</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix. installable done.">
+      <created>1689763991273</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689763991273</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix. instructor or organization&#10;done.">
+      <created>1689772874681</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689772874681</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add. instabble done.">
+      <created>1689775015297</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689775015297</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix. installble.">
+      <created>1689775242495</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689775242495</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix. installble.">
+      <created>1689832948457</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689832948457</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix. installble.">
+      <created>1689833623493</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1689833623493</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add. lms-zai admin panel stature ready." />
+    <MESSAGE value="add. lms-zai admin panel ready." />
+    <MESSAGE value="add. instructor or organization all done." />
+    <MESSAGE value="fix. organization done." />
+    <MESSAGE value="fix. installable done." />
+    <MESSAGE value="fix. instructor or organization&#10;done." />
+    <MESSAGE value="add. instabble done." />
+    <MESSAGE value="fix. installble." />
+    <option name="LAST_COMMIT_MESSAGE" value="fix. installble." />
+  </component>
+</project>
