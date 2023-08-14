@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="168f8dc9-4b90-45b8-b982-a4560b14fea2" name="Default Changelist" comment="" />
+    <list default="true" id="168f8dc9-4b90-45b8-b982-a4560b14fea2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/details/super-admin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/admin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/details/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +63,9 @@
       <workItem from="1690089899615" duration="4418000" />
       <workItem from="1690113431153" duration="902000" />
       <workItem from="1690175233855" duration="81000" />
+      <workItem from="1691937609841" duration="2430000" />
+      <workItem from="1691944169362" duration="1258000" />
+      <workItem from="1691989254848" duration="3407000" />
     </task>
     <task id="LOCAL-00001" summary="add. lms-zai admin panel stature ready.">
       <created>1689601064004</created>
