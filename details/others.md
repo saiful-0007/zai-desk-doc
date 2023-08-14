@@ -12,7 +12,7 @@ If you’re a developer and want to run the project on your development platform
 Now open your browser and browse ()
 After that you can see the installation page. Complete the installation wizard as directed. After successfully installing, you can see the project Login page and react frontend working as well.
 
-Copyright © 2022-2023 LMSZAI | Zainiktheme All Right Reserved.
+Copyright © 2022-2023 ZaiDesk | Zainiktheme All Right Reserved.
 
 
 

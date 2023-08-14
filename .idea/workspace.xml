@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="168f8dc9-4b90-45b8-b982-a4560b14fea2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/details/super-admin.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/details/agent.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/details/customer.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/details/admin.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/details/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/details/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/faq.md" beforeDir="false" afterPath="$PROJECT_DIR$/details/faq.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/others.md" beforeDir="false" afterPath="$PROJECT_DIR$/details/others.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/user.md" beforeDir="false" afterPath="$PROJECT_DIR$/details/admin.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +39,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/details" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/details" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,7 +73,7 @@
       <workItem from="1690175233855" duration="81000" />
       <workItem from="1691937609841" duration="2430000" />
       <workItem from="1691944169362" duration="1258000" />
-      <workItem from="1691989254848" duration="3407000" />
+      <workItem from="1691989254848" duration="26401000" />
     </task>
     <task id="LOCAL-00001" summary="add. lms-zai admin panel stature ready.">
       <created>1689601064004</created>
@@ -137,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689833623493</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add. super admin plane.">
+      <created>1691992911021</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1691992911021</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +167,7 @@
     <MESSAGE value="fix. instructor or organization&#10;done." />
     <MESSAGE value="add. instabble done." />
     <MESSAGE value="fix. installble." />
-    <option name="LAST_COMMIT_MESSAGE" value="fix. installble." />
+    <MESSAGE value="add. super admin plane." />
+    <option name="LAST_COMMIT_MESSAGE" value="add. super admin plane." />
   </component>
 </project>
