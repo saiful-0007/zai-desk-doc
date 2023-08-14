@@ -63,7 +63,7 @@ extra:
 nav:
   - "Home": "index.md"
   - "Getting Started": "getting-started.md"
-  - "Admin Panel": "admin.md"
+  - "Super Admin Panel": "super-admin.md"
   - "User Panel": "user.md"
   - "Faq": "faq.md"
   - "Others": "others.md"
