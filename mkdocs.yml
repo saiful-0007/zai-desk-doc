@@ -28,7 +28,7 @@ theme:
   #text: 'Ubuntu'
   #code: 'Ubuntu Mono'
   #icon:
-  logo: '/assets/img/logo.png'
+  logo: '/assets/img/app-logo-black.png'
   favicon: '/assets/img/favicon.png'
 
 # Extensions

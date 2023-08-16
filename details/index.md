@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="/assets/img/images.png" alt="ZaiAdmin Logo" >
+<img src="/assets/img/app-logo.png" alt="ZaiDesk Logo" >
 <br>ZaiDesk
 </h1>
 

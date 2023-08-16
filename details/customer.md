@@ -2,23 +2,36 @@
 
 ## **Browse The course in ZaiDesk**
 
-##**Analytics**
+## **Analytics**
 
-- ####**Create Ticket**
+The customer can see and manage all the information about how many tickets he has, how many tickets are active from this
+channel.
+
+![Image](/images/customer-img/customer-1.png)
 
 ## **Tickets**
 
-![Image](/images/Admin/1qq.png)
+### **Active Tickets**
 
-###**Active Tickets**
+Customer can create, manage, and view all tickets from here
 
+![Image](/images/customer-img/customer-2.png)
 
-###**Resolved Tickets**
+### **Resolved Tickets**
 
+Customer can create, manage, and view all Resolved Tickets from here
 
-###**Closed Tickets**
+![Image](/images/customer-img/customer-3.png)
 
+### **Closed Tickets**
 
-##**Settings**
+Customer can create, manage, and view all Closed Tickets from here
 
+![Image](/images/customer-img/customer-4.png)
+
+## **Settings**
+
+From this place customer can manage their profile. You can change your name, picture, and password.
+
+![Image](/images/customer-img/customer-5.png)
 

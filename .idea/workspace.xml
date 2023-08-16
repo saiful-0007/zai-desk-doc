@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="168f8dc9-4b90-45b8-b982-a4560b14fea2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/details/agent.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/details/customer.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/admin.md" beforeDir="false" afterPath="$PROJECT_DIR$/details/admin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/agent.md" beforeDir="false" afterPath="$PROJECT_DIR$/details/agent.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/assets/img/images.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/customer.md" beforeDir="false" afterPath="$PROJECT_DIR$/details/customer.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/details/faq.md" beforeDir="false" afterPath="$PROJECT_DIR$/details/faq.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/details/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/details/others.md" beforeDir="false" afterPath="$PROJECT_DIR$/details/others.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/details/user.md" beforeDir="false" afterPath="$PROJECT_DIR$/details/admin.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +75,9 @@
       <workItem from="1690175233855" duration="81000" />
       <workItem from="1691937609841" duration="2430000" />
       <workItem from="1691944169362" duration="1258000" />
-      <workItem from="1691989254848" duration="26401000" />
+      <workItem from="1691989254848" duration="29090000" />
+      <workItem from="1692161789143" duration="31000" />
+      <workItem from="1692161838004" duration="9969000" />
     </task>
     <task id="LOCAL-00001" summary="add. lms-zai admin panel stature ready.">
       <created>1689601064004</created>
@@ -152,11 +156,30 @@
       <option name="project" value="LOCAL" />
       <updated>1691992911021</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add. super admin panel , admin panel , agent , customer stature done.">
+      <created>1692027548468</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692027548468</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add. lms-zai admin panel stature ready." />
@@ -168,6 +191,7 @@
     <MESSAGE value="add. instabble done." />
     <MESSAGE value="fix. installble." />
     <MESSAGE value="add. super admin plane." />
-    <option name="LAST_COMMIT_MESSAGE" value="add. super admin plane." />
+    <MESSAGE value="add. super admin panel , admin panel , agent , customer stature done." />
+    <option name="LAST_COMMIT_MESSAGE" value="add. super admin panel , admin panel , agent , customer stature done." />
   </component>
 </project>
