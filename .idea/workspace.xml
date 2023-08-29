@@ -1,15 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="168f8dc9-4b90-45b8-b982-a4560b14fea2" name="Default Changelist" comment="">
+    <list default="true" id="168f8dc9-4b90-45b8-b982-a4560b14fea2" name="Default Changelist" comment="add. all done.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/details/admin.md" beforeDir="false" afterPath="$PROJECT_DIR$/details/admin.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/details/agent.md" beforeDir="false" afterPath="$PROJECT_DIR$/details/agent.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/details/assets/img/images.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/details/customer.md" beforeDir="false" afterPath="$PROJECT_DIR$/details/customer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/details/faq.md" beforeDir="false" afterPath="$PROJECT_DIR$/details/faq.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/details/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/details/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/details/others.md" beforeDir="false" afterPath="$PROJECT_DIR$/details/others.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/Admin/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin--1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/admin-imgge-update.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/cms-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/cms-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/cms-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/cms-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/cms-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/cms-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/cms-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/cms-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/cms-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/admin-img/cms-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/agent-img/agent-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/agent-img/agent-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/agent-img/agent-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/agent-img/agent-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/agent-img/agent-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/agent-img/agent-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/agent-img/agent-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/agent-img/agent-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/agent-img/agent-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/agent-img/agent-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/customer-img/customer-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/customer-img/customer-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/customer-img/customer-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/customer-img/customer-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details/images/customer-img/customer-5.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +125,14 @@
       <workItem from="1691989254848" duration="29090000" />
       <workItem from="1692161789143" duration="31000" />
       <workItem from="1692161838004" duration="9969000" />
+      <workItem from="1692694837800" duration="673000" />
+      <workItem from="1692725754963" duration="296000" />
+      <workItem from="1692766885175" duration="2021000" />
+      <workItem from="1692863007064" duration="447000" />
+      <workItem from="1693152360210" duration="667000" />
+      <workItem from="1693198739561" duration="4026000" />
+      <workItem from="1693285510621" duration="1714000" />
+      <workItem from="1693290463028" duration="7671000" />
     </task>
     <task id="LOCAL-00001" summary="add. lms-zai admin panel stature ready.">
       <created>1689601064004</created>
